@@ -1,6 +1,6 @@
 # Filter your screenshots by app
 
-# Usage
+## Usage
 0. Install Python
 1. Install prerequisites using 'pip install -r requirements.txt'
 2. Userconfig allows you to change which color to scan for (Support so far only for WhatsApp and Tinder)
